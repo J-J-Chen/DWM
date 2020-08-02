@@ -1,3 +1,19 @@
+# John Chen's fork of DWM
+
+Current known patches:
+* Alpha
+* DWM-pertag
+* Gaps
+* Attachbelow
+
+There are probably more patches that I have applied that I forgot.
+
+Other minor changes:
+* Del key to be right arrow then backspace
+* Monokai color scheme
+* Active window is red, non-active is blue
+
+
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
